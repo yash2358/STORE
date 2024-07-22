@@ -1,0 +1,17 @@
+.paddingall{
+    padding:10px;
+}
+.rate{
+    font-weight: 600;
+}
+.tag{
+    font-size: 14px;
+    color: white;
+}
+.iconstyle{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bg{
+    min-height: 100vh;
+}
